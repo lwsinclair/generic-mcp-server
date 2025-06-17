@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/csainath0210-generic-mcp-server-badge.png)](https://mseep.ai/app/csainath0210-generic-mcp-server)
+
 # Generic MCP Server
 
 A production-ready Model Context Protocol (MCP) server implementation built with TypeScript and Express, designed to seamlessly connect AI agents with external APIs.
